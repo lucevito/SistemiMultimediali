@@ -96,7 +96,7 @@ def evaluate_model(model, validation):
     """
     Evaluate the performance of a machine learning model on a validation dataset.
 
-    Parameters:
+    Args:
     - model: The machine learning model to be evaluated.
     - validation: The validation dataset used to assess the model's performance.
 
